@@ -1,33 +1,47 @@
 # Franz Bettag
 
-**AI Security Engineer · Entrepreneur · Security Researcher · Platform Architect**
+**Applied AI Engineering & AI Security · Nürnberg/Fürth, Germany**
 
-I build and secure production systems from bare metal to autonomous AI agents.
+I build and secure LLM applications, agent workflows and production systems.
+My work connects application engineering, bounded tool access, deterministic
+testing and operations, from bare metal to AI agents.
 
-I started with Unix and internet infrastructure in 2001. Ruby and Rails followed in 2006, Objective-C and iPhone development in 2008, and Scala in 2009. I became a [Liftweb committer](https://www.liftweb.net/team) in January 2012.
+## Selected engineering work
 
-From 2014 to 2019, i was the Lead/Sole Engineer behind Kleinanzeigen.de. I rebuilt and operated its FreeBSD platform end to end in Go before the platform was sold to eBay.
+| Project | What I built | Evidence |
+| --- | --- | --- |
+| [Aquila](https://github.com/fbettag/aquila) | Elixir LLM orchestration, streaming, tool calling and record/replay testing | [Case study](https://bett.ag/en/case-studies/aquila) |
+| [Ranching.farm](https://ranching.farm) | AI-assisted Kubernetes diagnosis with an [in-cluster Go agent](https://github.com/ranching-farm/k8s-agent) | [Case study](https://bett.ag/en/case-studies/ranching-farm) |
+| [badge.gallery](https://badge.gallery) | Structured technical knowledge with source provenance and publication checks | [Case study](https://bett.ag/en/case-studies/badge-gallery) |
+| [UsageReset](https://when.usagereset.at) | Public-signal interpretation, separate inferred and confirmed resets, timestamped outcome evaluation | [Case study](https://bett.ag/en/case-studies/usagereset) · [Performance ledger](https://when.usagereset.at/performance) |
 
-Since 2020, my work has focused on Elixir/BEAM and AI systems. Since 2023, primarily LLMs, RAG, production agents, and AI Security.
+My original MCP integrations include [Google Custom Search](https://github.com/fbettag/google-custom-search-mcp),
+[Selenium](https://github.com/fbettag/selenium-mcp) and
+[OpenAI Deep Research](https://github.com/fbettag/openai-deep-research-mcp).
 
-## Current work
+## External recognition
 
-- AI Security Engineering through [Bettag Systems](https://bett.ag/en/ai-security-engineering)
-- Founder & Owner of [2342 Holding](https://2342.gmbh)
-- #2 VDP Security Researcher Germany, HackerOne Q1/2026
-- Liftweb committer since January 2012
-- Elixir/BEAM for long-lived production systems
-- Go for CLI tools, Rust for libraries and small servers
-- Swift and server-side Swift/Vapor since 2025
+- [Petal lists me as an Elixir/Phoenix engineer and AI specialist](https://petal.build/hire).
+- [Lift's team page](https://www.liftweb.net/team): committer since January 2012.
+- **#2 in Germany's VDP category on HackerOne, Q1 2026**. This is a historical,
+  category-specific ranking, not an overall or current-world ranking.
+  [Evidence and context](https://bett.ag/en/evidence) · [HackerOne profile](https://hackerone.com/fbettag).
 
-## More
+## Background and supporting work
 
-- [Personal profile](https://bett.ag/en/franz-bettag)
-- [Technology timeline](https://bett.ag/en/technology-timeline)
-- [Public evidence](https://bett.ag/en/evidence)
-- [Talks](https://bett.ag/en/talks)
-- [Technical blog](https://uberblo.gs)
+Unix and production infrastructure since 2001; Ruby/Rails from 2006,
+Objective-C/iPhone from 2008, Scala/Lift from 2009 and Elixir/BEAM from 2020.
+From 2014 to 2019 I was Lead/Sole Engineer for Kleinanzeigen.de, rebuilding
+and operating its FreeBSD platform in Go before its sale to eBay.
+I am Founder & Owner of [2342 Holding](https://2342.gmbh).
 
-AI Security initial consultation: **€999**, including follow-up and concrete first steps.
+Security tooling supports my engineering practice. [psilonet](https://github.com/fbettag/psilonet)
+is exploratory MLX skip-connection research, not independently validated
+neuroscience, a production model or proof of general model improvements.
 
-[Contact Bettag Systems](https://bett.ag/en/contact?topic=ai-security)
+[Profile](https://bett.ag/en/franz-bettag) · [Public evidence](https://bett.ag/en/evidence) ·
+[Talks](https://bett.ag/en/talks) · [Technical blog](https://uberblo.gs/about-me.html) ·
+[LinkedIn](https://www.linkedin.com/in/franzbettag)
+
+[Initial consultation: €999](https://bett.ag/en/contact?topic=ai-security),
+including follow-up and concrete first steps.
