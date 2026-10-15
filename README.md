@@ -11,6 +11,7 @@ testing and operations, from bare metal to AI agents.
 | Project | What I built | Evidence |
 | --- | --- | --- |
 | [FlipperHero](https://flipper-hero.net) | Open source iPhone companion for Flipper Zero with an AI agent, live remote, file manager and explicit action approvals | [iOS source](https://github.com/flipper-hero/ios-app) · [Website](https://flipper-hero.net) |
+| [Flipping Nero](https://github.com/fbettag/flipping-nero) | iPhone red team agent for authorized LAN engagements: on-device AI reconnaissance with code-enforced scope, risk, approval and audit | [iOS source](https://github.com/fbettag/flipping-nero) |
 | [Aquila](https://github.com/fbettag/aquila) | Elixir LLM orchestration, streaming, tool calling and record/replay testing | [Case study](https://bett.ag/en/case-studies/aquila) |
 | [Ranching.farm](https://ranching.farm) | AI-assisted Kubernetes diagnosis with an [in-cluster Go agent](https://github.com/ranching-farm/k8s-agent) | [Case study](https://bett.ag/en/case-studies/ranching-farm) |
 | [badge.gallery](https://badge.gallery) | Structured technical knowledge with source provenance and publication checks | [Case study](https://bett.ag/en/case-studies/badge-gallery) |
