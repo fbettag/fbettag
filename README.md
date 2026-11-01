@@ -20,6 +20,10 @@ testing and operations, from bare metal to AI agents.
 My original MCP integrations include [Google Custom Search](https://github.com/fbettag/google-custom-search-mcp),
 [Selenium](https://github.com/fbettag/selenium-mcp) and
 [OpenAI Deep Research](https://github.com/fbettag/openai-deep-research-mcp).
+My [Openterface Mini-KVM skill](https://github.com/fbettag/openinterface-mini-kvm-skill)
+gives Claude Code, Codex and opencode physical console access: agents read a
+machine's HDMI screen and type through an emulated USB keyboard, under explicit
+safety rules.
 
 ## External recognition
 
