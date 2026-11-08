@@ -18,6 +18,7 @@ testing and operations, from bare metal to AI agents.
 | [UsageReset](https://when.usagereset.at) | Public-signal interpretation, separate inferred and confirmed resets, timestamped outcome evaluation | [Case study](https://bett.ag/en/case-studies/usagereset) · [Performance ledger](https://when.usagereset.at/performance) |
 | [meshtastic-nix](https://github.com/fbettag/meshtastic-nix) | Declarative Meshtastic configuration over TCP with NixOS and nix-darwin modules, device identity checks, runtime secrets and verified read-back | [Flake and source](https://github.com/fbettag/meshtastic-nix) · [Tests](https://github.com/fbettag/meshtastic-nix/tree/main/tests) |
 | [octopus-net-nix](https://github.com/fbettag/octopus-net-nix) | Declarative Octopus NET Pro SAT>IP tuner management with a NixOS module, device and firmware guards, runtime credentials and read-back verification | [Flake and source](https://github.com/fbettag/octopus-net-nix) · [Tests](https://github.com/fbettag/octopus-net-nix/tree/main/tests) |
+| [awtrix-ng-nix](https://github.com/fbettag/awtrix-ng-nix) | Declarative AWTRIX NG clock management with a NixOS module, pinned firmware, identity checks, private backups and custom notifications | [Flake and source](https://github.com/fbettag/awtrix-ng-nix) · [Tests](https://github.com/fbettag/awtrix-ng-nix/tree/main/tests) |
 
 My original MCP integrations include [Google Custom Search](https://github.com/fbettag/google-custom-search-mcp),
 [Selenium](https://github.com/fbettag/selenium-mcp) and
