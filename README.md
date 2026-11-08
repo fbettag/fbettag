@@ -16,6 +16,7 @@ testing and operations, from bare metal to AI agents.
 | [Ranching.farm](https://ranching.farm) | AI-assisted Kubernetes diagnosis with an [in-cluster Go agent](https://github.com/ranching-farm/k8s-agent) | [Case study](https://bett.ag/en/case-studies/ranching-farm) |
 | [badge.gallery](https://badge.gallery) | Structured technical knowledge with source provenance and publication checks | [Case study](https://bett.ag/en/case-studies/badge-gallery) |
 | [UsageReset](https://when.usagereset.at) | Public-signal interpretation, separate inferred and confirmed resets, timestamped outcome evaluation | [Case study](https://bett.ag/en/case-studies/usagereset) · [Performance ledger](https://when.usagereset.at/performance) |
+| [meshtastic-nix](https://github.com/fbettag/meshtastic-nix) | Declarative Meshtastic configuration over Wi-Fi with NixOS and nix-darwin modules, device identity checks, runtime secrets and verified read-back | [Flake and source](https://github.com/fbettag/meshtastic-nix) · [Tests](https://github.com/fbettag/meshtastic-nix/tree/main/tests) |
 
 My original MCP integrations include [Google Custom Search](https://github.com/fbettag/google-custom-search-mcp),
 [Selenium](https://github.com/fbettag/selenium-mcp) and
